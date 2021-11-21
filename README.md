@@ -2,12 +2,12 @@
 A set of custom Python modules created by me for various tasks and applications.
 
 ---
-## Contents
-- [data_visualization.py](data_visualizationpy) : For data visualization of NN models using matplotlib.
-- [linked_list.py](linked_listpy) : For creating and modifying linked lists.
-- [one_hot_characters.py](one_hot_characterspy) : For encoding and decoding strings into and from a tensor of one-hot tensors.
+## List of Modules
+- [data_visualization.py](https://github.com/charya-s/python-modules/blob/main/README.md#data_visualizationpy) : For data visualization of NN models using matplotlib.
+- [linked_list.py](https://github.com/charya-s/python-modules/blob/main/README.md#linked_listpy) : For creating and modifying linked lists.
+- [one_hot_characters.py](https://github.com/charya-s/python-modules/blob/main/README.md#one_hot_characterspy) : For encoding and decoding strings into and from a tensor of one-hot tensors.
 ---
-## Modules:
+## Detailed List of Modules
 ### data_visualization.py
 Used to visualize data gathered during and after NN model training/testing using matplotlib. 
 
